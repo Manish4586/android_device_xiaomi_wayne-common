@@ -34,9 +34,6 @@ TARGET_HW_DISK_ENCRYPTION := true
 # DT2W
 TARGET_TAP_TO_WAKE_NODE := "/sys/touchpanel/double_tap"
 
-# Display
-TARGET_SCREEN_DENSITY := 420
-
 # HIDL
 DEVICE_MANIFEST_FILE += $(WAYNE_PATH)/manifest.xml
 
